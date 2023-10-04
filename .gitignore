@@ -1,0 +1,8 @@
+.venv
+venv
+
+.idea
+.ipynb_checkpoints
+
+*.weights
+*.h5
